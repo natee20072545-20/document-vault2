@@ -1,0 +1,4 @@
+streamlit>=1.38
+Pillow>=10.0
+openai>=1.40
+pytesseract>=0.3.10
